@@ -22,6 +22,10 @@ RP2040はRaspber Pi財団が開発したマイコンで、ARM Cortex-M0+のデ�
 - 電源確認用LED
 - SWD用ポート
 
+## ピン配置
+
+![](img/pinassign.png)
+
 ## 注意点など
 
 Pro MicroのVCCに当たるピンは三端子レギュレータの前段につながっています。Pro Microの場合はレギュレータの後段に繋がっているため回路設計の際には注意が必要です。
