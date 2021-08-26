@@ -1,5 +1,7 @@
 # Pico Micro
 
+![top](img/pico_micro_top.jpg)
+
 Pro Microと互換性のあるフットプリントを採用したRP2040のブレークアウト基板です。USBコネクタにはミッドマウントのUSB Type-Cレセプタクルを採用し、基板の高さを抑えています。
 
 RP2040はRaspber Pi財団が開発したマイコンで、ARM Cortex-M0+のデュアルコア(133MHz)を搭載し、264kBのSRAM, I2C, UART, SPI, ADC, PIO, USBといった機能が利用できます。
@@ -24,7 +26,7 @@ RP2040はRaspber Pi財団が開発したマイコンで、ARM Cortex-M0+のデ�
 
 ## ピン配置
 
-![](img/pinassign.png)
+![pinassign](img/pinassign.png)
 
 ## 注意点など
 
